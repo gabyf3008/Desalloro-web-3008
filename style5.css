@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+html{ 
+    cursor: url(imagenes/arrow2699.png), auto;
+ }
+ a:hover{
+    cursor: url(imagenes/arrow2699\ \(1\).png), auto;
+ }
+body{
+   background-image: url(https://i.pinimg.com/originals/11/40/71/1140717b1145f3885757119795667e26.gif);
+   font-family: "Oswald", sans-serif;
+}
+#glitter{
+    width: 1000px;
+}
+#blue {
+    width: 170px;
+}
+
+#violet {
+    width: 170px;
+}
+
+#garden {
+    width: 190px;
+}
+
+#luka {
+    width: 170px;
+}
+
+#luz {
+    width: 170px;
+}
+
+.menu {
+    background-color: hsl(0, 4%, 78%);
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.menu li {
+    list-style: none;
+    border: 1px;
+    padding: 0px 20px;
+    font-size: 20px;
+    font-weight: bold;
+    display: inline-block;
+    color: black;
+    text-decoration: none ;
+}
+
+.conjunto {
+    width: 1280px;
+    border: 1px solid rgb(250, 237, 237);
+    margin: 5px auto;
+    background-color: #e0dddda6;
+    text-align: center;
+}
+
+article {
+    background-color: burlywood;
+    border: 1px solid #757272a6;  
+    padding: 20px;
+    margin-bottom: 20px;
+}
+article p {
+    font-style: normal;
+}
+article h3 {
+    color:rgb(121, 32, 32) ;
+    text-align: center;
+}
+.lateral{
+    margin-inline-end: 30px;
+    width: 400px;
+    float: right; 
+    background-color: lightgrey;
+}
+.lateral2{
+    margin-inline-end: 30px;
+    width: 380px;
+    float: left; 
+    background-color: lightgrey;
+}
+.lateral blockquote {
+    border: 3px;
+    text-align: left;
+}
+
+.lateral blockquote p {
+    font-weight: lighter;
+    margin-bottom: 30px;
+    
+}
+
+.lateral blockquote h1 {
+    text-align: center;
+    font-weight: bolder;
+    margin-bottom: 20px;
+    color: rgb(114, 24, 24);
+
+}
+.lateral2 blockquote h1 {
+    text-align: center;
+    font-weight: bolder;
+    margin-bottom: 20px;
+    color: rgb(114, 24, 24);
+
+}
+.lateral2 blockquote p {
+    font-weight: lighter;
+    margin-bottom: 30px;
+    
+}
+
+.final {
+    clear: both;
+    padding: 20px;
+    background-color: rgb(213, 213, 248);
+}
+

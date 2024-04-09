@@ -1,0 +1,95 @@
+#Logo {
+    background-color: rgba(243, 211, 172, 0.979);
+    border: 1px solid hsl(0, 4%, 78%);
+    padding: 10px;  
+ }  
+
+ #terciopiel {
+    width: 170px;
+}
+
+#blue {
+    width: 170px;
+}
+
+#violet {
+    width: 170px;
+}
+
+#garden {
+    width: 190px;
+}
+
+#luka {
+    width: 170px;
+}
+
+#luz {
+    width: 170px;
+}
+
+.menu {
+    background-color: hsl(0, 4%, 78%);
+}
+
+.menu li {
+    list-style: none;
+    border: 1px;
+    padding: 5px;
+    font-weight:  bolder;
+    font-size: 20px;
+    display: inline-block;
+}
+
+.conjunto {
+    width: 1300px;
+    border: 1px solid rgb(250, 237, 237);
+    margin: 5px auto;
+    background-color: #e0dddda6;
+    text-align: center;
+}
+
+article {
+    background-color: burlywood;
+    border: 1px solid #757272a6;  
+    padding: 20px;
+    margin-bottom: 20px; 
+}
+
+.lateral{
+    margin-inline-end: 30px;
+    width: 400px;
+    float: right; 
+    background-color: lightgrey;
+}
+
+.lateral blockquote {
+    border: 3px;
+    text-align: left;
+}
+
+.lateral blockquote p {
+    font-weight: lighter;
+    margin-bottom: 30px;
+    
+}
+
+.lateral blockquote h1 {
+    text-align: center;
+    font-weight: bolder;
+    margin-bottom: 20px;
+
+}
+
+.final {
+    clear: both;
+    padding: 20px;
+    background-color: rgb(213, 213, 248);
+}
+
+section article footer {
+    clear: both;
+    padding: 20px;
+    background-color: rgb(213, 213, 248);
+    
+}

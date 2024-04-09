@@ -1,0 +1,72 @@
+ @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+ html{ 
+    cursor: url(imagenes/arrow2699.png), auto;
+ }
+ a:hover{
+    cursor: url(imagenes/arrow2699\ \(1\).png), auto;
+ }
+body{
+   background-image: url(https://i.pinimg.com/originals/11/40/71/1140717b1145f3885757119795667e26.gif);
+   font-family: "Oswald", sans-serif;
+}   
+#glitter{
+    width: 1000px;
+}
+table {
+    background-color: burlywood;
+    border: 1px solid #757272a6;  
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.menu {
+    background-color: hsl(0, 4%, 78%);
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.menu li {
+    list-style: none;
+    border: 1px;
+    padding: 0px 20px;
+    font-size: 20px;
+    font-weight: bold;
+    display: inline-block;
+    color: black;
+    text-decoration: none ;
+}
+
+.final {
+    clear: both;
+    padding: 20px;
+    background-color: rgb(213, 213, 248);
+}
+
+.conjunto {
+    width: 1280px;
+    border: 1px solid rgb(250, 237, 237);
+    margin: 5px auto;
+    background-color: #e0dddda6;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+}
+
+table p {
+    padding: 20px;
+}
+
+table h3 {
+    color:rgb(121, 32, 32) ;
+    text-align: center;
+    font-style: italic;
+}
+
+ td div img  {
+    width: 300px;
+}
